@@ -8,3 +8,4 @@ Description:
 The Crystal Game is played by clicking different crystal that are randomly assigned a point value by the Math.random function in javascript. After each game, the crystals are dynamically created once again with different point values and new on click functions.
 
 
+ 
