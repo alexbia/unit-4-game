@@ -1,11 +1,11 @@
 body {
-	background-image: url("../images/seigaiha.png");
+	background-image: url("../images/ornamental.png");
 	margin: 0px;
 	padding: 0px;
 }
 
 .jumbotron {
-	background-color: orange;
+	background-color: darkolivegreen;
 	color: white;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .win-lose-counter {
-	background-color: #9CE7F8;
+	background-color: #F8cf9c;
 	border-style: solid;
 	border-color: #ddd;
 	border-width: 4px;
@@ -31,11 +31,11 @@ body {
 
 .total-score {
 	color: white;
-	background-color: #4aaaa5;
+	background-color: #9c675a;
 }
 
 .score-number {
 	color: white;
 	background-color: #4aaaa5;
-	font-size: 30px;
+	font-size: 60px;
 }
